@@ -32,26 +32,4 @@ Sprott School of Business, Carleton University
 - Assisted in updating the Procurement Manual Policy and maintained accessibility of procurement-related links on the organization’s intranet.  
 - Contributed to the optimization of departmental buying policies to enhance procurement efficiency.  
 
----
 
-## Extracurricular and Volunteer Experience
-### **Notetaker**  
-*Paul Menton Centre, Carleton University*  
-- Attended classes and took legible, complete notes for students with disabilities.  
-- Managed workloads while adhering to tight deadlines to support academic outcomes.  
-- Showed leadership and responsibility under minimal supervision.
-
-### **Machine Learning Foundations: Statistics**  
-*Provider*: LinkedIn Learning  
-*Completion Date*: May 2024  
-- Completed a course focused on Statistical Analysis and Machine Learning.  
-- Earned 2.60 Continuing Professional Education (CPE) credits from NASBA.  
-
----
-
-## Additional Interests and Hobbies
-- Photography  
-- Basketball  
-- Artificial Intelligence  
-- Chess  
-- Reading
