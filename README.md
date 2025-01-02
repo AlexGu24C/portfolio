@@ -4,13 +4,6 @@
 **4th Year Business Analytics Undergraduate**  
 Sprott School of Business, Carleton University
 
----
-
-## Skills
-- **Office Software Proficiency**: Experienced with Microsoft Office Suite (Word, Excel, PowerPoint) for creating professional documents, presentations, and data management. Adept at using SharePoint for collaboration and document management.
-- **Data Analysis**: Advanced Microsoft Excel skills, including methodologies such as Euclidean distance for data analysis. Proficient in Query Editor, SAS, SQL, and Python (with pandas). Introduced to machine learning using scikit-learn. Applied these skills in an academic project predicting white wine quality, utilizing Excel, pandas, and SAS.
-- **Data Visualization & Reporting**: Experienced with Power BI and Tableau for data visualization, analysis, and reporting. Knowledgeable in statistics to interpret complex data sets and drive business decisions and strategies.
-- **Language Proficiency**: Fluent in English and French; exceptional communication skills, adept at building relationships with diverse groups.
 
 ---
 
