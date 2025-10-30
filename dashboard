@@ -1,0 +1,3 @@
+interactive ward-level Power BI dashboard using Ottawa’s open data to pinpoint congestion hotspots, safety pressure, and bike-share opportunities. 
+  I performed ETL with Power Query, SQL Server, and Access to clean and model messy geographic and usage datasets, then integrated ArcGIS Maps for Power BI for spatial analysis and map-based exploration. 
+    I designed KPIs for congestion, safety priority, and estimated emissions reduction to inform infrastructure planning and active mobility goals.
